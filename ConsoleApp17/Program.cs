@@ -60,6 +60,7 @@ namespace ConsoleApp17
             for (int i = 0; i < 10; i++) { for (int j = 0; j < 111000; j++) { myArrrr[i,j] = new Article(); } }
             sw.Stop();
             Console.WriteLine(sw.ElapsedMilliseconds);
+            Console.WriteLine("Bye");
         }
     }
 }
