@@ -61,6 +61,7 @@ namespace ConsoleApp17
             sw.Stop();
             Console.WriteLine(sw.ElapsedMilliseconds);
             Console.WriteLine("Bye");
+            Console.WriteLine("Bye2");
         }
     }
 }
